@@ -1,0 +1,13 @@
+h5py==3.11.0
+matplotlib==3.7.1
+numpy==1.25.0
+Pillow==9.5.0
+Pillow==11.0.0
+protobuf==5.28.3
+tensorflow==2.15.1
+tensorflow==2.15.0
+tensorflow==2.17.0
+tensorflow_intel==2.15.1
+tensorflow_intel==2.17.0
+tensorflowjs==4.22.0
+tqdm==4.66.1
