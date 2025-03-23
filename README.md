@@ -70,6 +70,6 @@ Proyek ini bertujuan untuk:
 Pada proyek ini, saya melakukan **klasifikasi citra berbasis deep learning** untuk mendeteksi penyakit pada daun tanaman **Tomat**. Model ini dapat dikembangkan lebih lanjut dengan dataset yang lebih besar serta penyempurnaan arsitektur untuk meningkatkan akurasi.
 
 **Author:** Mellisa  
-**Date:** 09-11-2024  
-**Tools:** Python, TensorFlow, Keras, OpenCV, Matplotlib
+**Date:** 11-11-2024  
+**Tools:** Python, TensorFlow, Keras, Matplotlib
 
